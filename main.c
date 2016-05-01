@@ -21,8 +21,6 @@
 #define TZ_MSH_INLINE
 #include "tz/tz/msh.h"
 
-#include "rply-1.1.4/rply.h"
-
 
 #define VERT_NAME   "../assets/shaders/main.vert"
 #define FRAG_NAME   "../assets/shaders/main.frag"
